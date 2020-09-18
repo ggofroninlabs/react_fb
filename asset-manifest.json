@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_fb/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react_fb/static/js/main.59d21aeb.chunk.js",
+    "main.js.map": "/react_fb/static/js/main.59d21aeb.chunk.js.map",
+    "runtime-main.js": "/react_fb/static/js/runtime-main.c0d8412a.js",
+    "runtime-main.js.map": "/react_fb/static/js/runtime-main.c0d8412a.js.map",
+    "static/js/2.8e896991.chunk.js": "/react_fb/static/js/2.8e896991.chunk.js",
+    "static/js/2.8e896991.chunk.js.map": "/react_fb/static/js/2.8e896991.chunk.js.map",
+    "index.html": "/react_fb/index.html",
+    "precache-manifest.cb9639c5f7f9e142862fd8613cf09efc.js": "/react_fb/precache-manifest.cb9639c5f7f9e142862fd8613cf09efc.js",
+    "service-worker.js": "/react_fb/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react_fb/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8e896991.chunk.js.LICENSE.txt": "/react_fb/static/js/2.8e896991.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react_fb/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0d8412a.js",
+    "static/js/2.8e896991.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.59d21aeb.chunk.js"
+  ]
+}
