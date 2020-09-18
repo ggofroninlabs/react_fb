@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_fb/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react_fb/static/js/main.59d21aeb.chunk.js",
-    "main.js.map": "/react_fb/static/js/main.59d21aeb.chunk.js.map",
+    "main.js": "/react_fb/static/js/main.f6c212ea.chunk.js",
+    "main.js.map": "/react_fb/static/js/main.f6c212ea.chunk.js.map",
     "runtime-main.js": "/react_fb/static/js/runtime-main.c0d8412a.js",
     "runtime-main.js.map": "/react_fb/static/js/runtime-main.c0d8412a.js.map",
     "static/js/2.8e896991.chunk.js": "/react_fb/static/js/2.8e896991.chunk.js",
     "static/js/2.8e896991.chunk.js.map": "/react_fb/static/js/2.8e896991.chunk.js.map",
     "index.html": "/react_fb/index.html",
-    "precache-manifest.ea9b4784574907ebde94ea00a716b0ca.js": "/react_fb/precache-manifest.ea9b4784574907ebde94ea00a716b0ca.js",
+    "precache-manifest.9483e3840e1210bc3387858289177537.js": "/react_fb/precache-manifest.9483e3840e1210bc3387858289177537.js",
     "service-worker.js": "/react_fb/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/react_fb/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.8e896991.chunk.js.LICENSE.txt": "/react_fb/static/js/2.8e896991.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c0d8412a.js",
     "static/js/2.8e896991.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.59d21aeb.chunk.js"
+    "static/js/main.f6c212ea.chunk.js"
   ]
 }
